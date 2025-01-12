@@ -1,0 +1,61 @@
+{
+    "introduction": "SFL",
+    "email": "wufanoceaneidoud.com",
+    "phone": "+86 13100021827",
+    "experience": [
+        {
+            "company": "ERAX",
+            "role": "STE",
+            "duration": "2022.06-2026.06",
+            "responsibilities": [
+                "Matlab",
+                "Python",
+                "Project Management"
+            ]
+        },
+        {
+            "company": "BKP#RPARNE",
+            "role": "EX#XXERPAXI",
+            "duration": "2024.01-2024.02",
+            "responsibilities": [
+                "Data Analysis",
+                "Python Development"
+            ]
+        },
+        {
+            "company": "AhVBAKRNE",
+            "role": "EALhEVBAAP",
+            "duration": "2023.09-2023.11",
+            "responsibilities": [
+                "Project Coordination",
+                "HR Management"
+            ]
+        },
+        {
+            "company": "AIHRENBHPNE",
+            "role": "EATHIERHS",
+            "duration": "2023.09-2023.10",
+            "responsibilities": [
+                "Research",
+                "Technical Writing"
+            ]
+        }
+    ],
+    "skills": [
+        "Matlab",
+        "Python",
+        "SQL"
+    ],
+    "education": [
+        {
+            "degree": "CET-6",
+            "institution": "Unspecified",
+            "graduation_year": "458"
+        },
+        {
+            "degree": "CET-4",
+            "institution": "Unspecified",
+            "graduation_year": "567"
+        }
+    ]
+}

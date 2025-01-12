@@ -1,0 +1,65 @@
+{
+    "introduction": "Full name is not explicitly mentioned in the provided content.",
+    "email": "yangykai@foxmail.om",
+    "phone": "15757829540",
+    "experience": [
+        {
+            "company": "PICO",
+            "role": "VR App Developer",
+            "duration": "2023.10 - 2024.9",
+            "responsibilities": [
+                "VR/MR App development and optimization",
+                "Worked with XRRuntime (XR SDK)",
+                "Involved in app architecture and usage scenarios"
+            ]
+        },
+        {
+            "company": "DLVR (Company name is abbreviated)",
+            "role": "Role not explicitly mentioned",
+            "duration": "2022.2 - 2023.8",
+            "responsibilities": [
+                "PICO VR app XRRuntime development",
+                "Improved performance and user experience"
+            ]
+        },
+        {
+            "company": "MIUI",
+            "role": "Role not explicitly mentioned",
+            "duration": "2019.5 - 2022.2",
+            "responsibilities": [
+                "MIUI related development",
+                "Enhanced product features and stability"
+            ]
+        },
+        {
+            "company": "Framework",
+            "role": "Software Engineer",
+            "duration": "2016.7 - 2019.5",
+            "responsibilities": [
+                "Developed multiple front-end and back-end components",
+                "Collaborated with cross-functional teams"
+            ]
+        }
+    ],
+    "skills": [
+        "Java",
+        "Spring Boot",
+        "Vue.js",
+        "RabbitMQ",
+        "Redis",
+        "VR/AR Development",
+        "GitHub Copilot"
+    ],
+    "education": [
+        {
+            "degree": "Undergraduate in Computer Science",
+            "institution": "Educational institution is not specified",
+            "graduation_year": "2016"
+        },
+        {
+            "degree": "Graduate level education",
+            "institution": "Institution is not specified",
+            "graduation_year": "2024"
+        }
+    ]
+}

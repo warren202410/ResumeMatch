@@ -1,0 +1,119 @@
+Sravya Guntupalli
+Data Analyst
+Location: Austin, TX I Phone: +1 (818) 425 6469 Email: rayago990gmallcom I LinkedIn
+SUMMARY:
+Over 3 years of professional experience as a Data Analyst, proficient in understanding, analyzing, and
+documenting Business Requirements, Functional Specifications, Business Process Flow, Business Process
+Mapping, data extraction, manipulation, visualization, validation techniques, and Data Modeling.
+Strong proficiency in AWS Cloud platform features (EC2, VPC, RDS, S3, CloudWatch, CloudFormation),
+Microsoft Office Suite (Word, Excel, PowerPoint, HP Quality Center), for creating data flow/process flow
+diagrams.
+Experienced in conducting GAP analysis, SWOT analysis, Cost-benefit analysis and ROI analysis, with
+hands-on experience in utilizing AWS command line client and management console.
+Knowledgeable in Data Warehousing concepts, ETL processes, and Data Modelling, with expertise in BI
+tools (Tableau, Power BI), Reporting, ETL (SSIS), RDBMS concepts, SQL Queries, and design document
+preparation.
+Proficient in data analysis, visualization, machine learning algorithms, statistica/econometrie tools (SAS, R)
+and data mining (Python, SQL, Spark, Hive).
+Dedicated to continuous learning and staying updated with emerging technologies and methodologies to
+drive innovation and maintain a competitive edge.
+Proficient in all stages of the Software Development Life Cycle (SDLC) including both Waterfall and AGILE
+methodologies, with extensive experience in conducting a variety of system related analytical tasks.
+SKILLS:
+Languages:
+SQL, Python, Advanced SQL, C, R, Bash.
+Tools:
+Tableau Desktop, Python (Pandas, NumPy), Datorama, PowerBI, Matplotlib,
+Seaborn.
+MS-Office! Package:
+Microsoft Office (Windows, Word, Excel, Power Point, Visio, Project).
+Database Technologies:
+Confidential, SSIS, SSAS, SSRS, JIRA, T-SQL, PL/SQL, Microsoft Hyper-VServers,
+Teradata (R12, R13, R14.10), MS SQL Server, DB2, SQL Server, MySQL.
+BigData:
+Azure Data Studio, Access, Map Reduce, Pig, Hive, AWS EMR, AWSS3.
+Tools/Library:
+Excel, Talend, NumPy, Pandas, NLTK, A/BTesting
+Methodologies:
+SDLC, Agile, Waterfall, Scrum.
+Operating Systems:
+Windows, UNIX, Linux, Mac
+EDUCATIONS:
+Mastersi in Computer Engineering
+Jan 2022 - May 2024
+California State University Northridge, USA
+Foundations of Data Analytics, Data Management and Database Design, Computation and Visualization for Analytics,
+Operations Research, and Statistical Methods in Engineering
+Bachelor of Electrical and Electronics Engineering
+Aug 2017 - May 2021
+Vardhaman College of Engineering, INDIA
+Introduction to Machine Learning and Applications, Cyber Laws, Data Warehousing
+EXPERIENCES:
+CVS Pharmacy, USA
+Jan 2024 - Present
+Data Analyst
+Assisting in aj project aimed at optimizing pharmacy operations through the analysis of prescription fulfillment data and
+operational processes.
+Utilizing SQL queries and data visualization tools to extract, clean, and analyze datasets of prescription orders,
+inventory levels, and dispensing times.
+Collaborated in an Agile environment, employing SDLC methodologies to manage data analytics projects, optimize
+
+
+
+workflows, and deliver high-quality results for pharmacy: management teams.
+Identifying inefficiencies in prescription fulfillment workflows and providing recommendations for process
+improvements to enhance operational efficiency and reduce customer wait times.
+Collaborating closely with pharmacy staff and management to gather requirements and support the implementation of
+data-driven solutions to improve overall efficiency and customer satisfaction.
+Utilized Tableau Desktop and PowerBI to create dynamic visualizations and dashboards, enhancing data accessibility
+and: supporting strategic initiatives within the pharmacy sector.
+Contributing to the creation of dashboards and reports to track key performance indicators, including prescription fill
+rates, inventory turnover, and customer wait times, to facilitate informed decision- making and performance
+monitoring.
+Leveraged advanced SQL and Python to analyze and interpret complex pharmacy data, resulting in actionable insights
+andi improved decision-making processes.
+Managed MySQL databases, fine-tuned table structures, and improved indexing strategies, resulting in a 25% boost in
+database query responsiveness.
+Philips HealthCare, India
+May 2019 = Sep 2021
+Data Analyst
+Led a project focused on developing a software application aimed at optimizing healthcare efficiency by analyzing
+patient data and operational processes.
+Spearheaded a project resulting in a 20% reduction in patient wait times and a 15% decrease in resource utilization
+costs.
+Analyzed over 1 million patient records and implemented data-driven process improvements, leading to a 30%
+increasei in operational efficiency.
+Utilized a combination of SQL queries, Python (Pandas, NumPy), Tableau Desktop, and PowerBI to extract, clean,
+analyze, and visualize large datasets of patient records, medical procedures, and resource utilization within the
+application.
+Identified inefficiencies in healthcare workflows through data analysis and recommended process improvements to
+streamline operations and reduce costs, all integrated seamlessly into the application interface.
+Collaborated closely with cross-functional teams, including clinicians, administrators, and IT professionals, to gather
+requirements and implement data-driven: solutions within the software application.
+Developed interactive dashboards and reports within the application to monitor key performance indicators such as
+patient wait times, resource utilization rates, and throughput, providing real-time insights for decision-making
+Conducted root cause analysis on operational bottlenecks and implemented data-driven strategies directly within the
+application to improve patient outcomes and enhance overall healthcare delivery.
+Managed the entire project lifecycle utilizing Agile and SDLC methodologies, overseeing planning, execution, and
+delivery to meet stakeholder requirements.
+Spearheaded test automation efforts using HP/Mercury tools like Quality Center and Quick Test Professional to ensure
+the robustness: and reliability of the software application.
+Demonstrated proficiency in project management methodologies to ensure effective collaboration and successful
+outcomes throughout the development and deployment of the Healthcare Efficiency Optimization Software Application
+for Philips Healthcare.
+PROJECTS:
+Cardiac disease prediction system
+Developed a powerful machine-learning model utilizing Python libraries to accurately predict cardiac disease
+frequency, enhancing diagnostic capabilities, and enabling timely treatment interventions.
+Leveraged advanced data analysis and visualization techniques to optimize the prediction model, revealing crucial
+insights and patterns that contribute to advancing cardiac healthcare practices.
+Covid Tracker
+Developed a global COVID-19 tracking web application using Spring Boot and Thyme Leaf, effectively integrating real-
+time data APIs for dynamic updates, and implementing responsive design for an intuitive user experience.
+It adopts the MVC Mode-View-Controllen) architecture pattern for organized code structure and involves parsing CSV
+files for handling and displaying the COVID-19 data.
+Bookstore. Analysis
+Created a SQL-based virtual bookstore project, cataloging books by details like ID, name, and publisher to streamline
+inventory management.
+Developed and maintained comprehensive sales and pricing analysis dataset, which contributed to informed stocking
+decisions and enhanced book availability for optimal customer: satisfaction.

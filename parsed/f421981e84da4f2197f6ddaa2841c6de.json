@@ -1,0 +1,49 @@
+{
+    "introduction": "Yangkai",
+    "email": "yangykai@foxmail.com",
+    "phone": "15757829540",
+    "experience": [
+        {
+            "company": "Company A",
+            "role": "VR Developer",
+            "duration": "2023.10 - 2024.9",
+            "responsibilities": [
+                "Lead VR/MR App development",
+                "Work on XRRuntime for PICO VR",
+                "Implement various features for XR systems"
+            ]
+        },
+        {
+            "company": "Mi",
+            "role": "Developer",
+            "duration": "2019.5 - 2022.2",
+            "responsibilities": [
+                "MIUI enhancement",
+                "Developed and maintained Android features"
+            ]
+        },
+        {
+            "company": "Framework",
+            "role": "Software Engineer",
+            "duration": "2016.7 - 2019.5",
+            "responsibilities": [
+                "Worked on backend frameworks",
+                "Contributed to cross-function projects"
+            ]
+        }
+    ],
+    "skills": [
+        "Java",
+        "Spring Boot",
+        "Vue",
+        "LoadRunner",
+        "XR development"
+    ],
+    "education": [
+        {
+            "degree": "Bachelor's",
+            "institution": "SEBLAA5 University",
+            "graduation_year": "2016"
+        }
+    ]
+}

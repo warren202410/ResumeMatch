@@ -1,0 +1,48 @@
+{
+    "introduction": "Sravya Guntupalli",
+    "email": "rayago990gmallcom",
+    "phone": "+1 (818) 425 6469",
+    "experience": [
+        {
+            "company": "CVS Pharmacy, USA",
+            "role": "Data Analyst",
+            "duration": "Jan 2024 - Present",
+            "responsibilities": [
+                "Assisting in a project aimed at optimizing pharmacy operations through the analysis of prescription fulfillment data and operational processes.",
+                "Utilizing SQL queries and data visualization tools to extract, clean, and analyze datasets of prescription orders, inventory levels, and dispensing times.",
+                "Collaborated in an Agile environment, employing SDLC methodologies to manage data analytics projects, optimize workflows, and deliver high-quality results for the pharmacy management teams."
+            ]
+        },
+        {
+            "company": "Philips HealthCare, India",
+            "role": "Data Analyst",
+            "duration": "May 2019 - Sep 2021",
+            "responsibilities": [
+                "Led a project focused on developing a software application aimed at optimizing healthcare efficiency by analyzing patient data and operational processes.",
+                "Spearheaded a project resulting in a 20% reduction in patient wait times and a 15% decrease in resource utilization costs.",
+                "Utilized a combination of SQL queries, Python (Pandas, NumPy), Tableau Desktop, and PowerBI to extract, clean, analyze, and visualize large datasets of patient records, medical procedures, and resource utilization within the application."
+            ]
+        }
+    ],
+    "skills": [
+        "SQL",
+        "Python",
+        "Tableau Desktop",
+        "PowerBI",
+        "AWS Cloud platform",
+        "Data Analysis",
+        "Machine Learning"
+    ],
+    "education": [
+        {
+            "degree": "Masters in Computer Engineering",
+            "institution": "California State University Northridge, USA",
+            "graduation_year": "2024"
+        },
+        {
+            "degree": "Bachelor of Electrical and Electronics Engineering",
+            "institution": "Vardhaman College of Engineering, INDIA",
+            "graduation_year": "2021"
+        }
+    ]
+}

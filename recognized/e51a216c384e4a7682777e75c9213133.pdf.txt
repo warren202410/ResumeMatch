@@ -1,0 +1,54 @@
+Han Yan
+805-905-5791 I fqw6pv@virginia.edu www.linkedin.com/n/hanyan0606 hsmyaatusas
+EDUCATION
+University of Virginia, Bachelor's,
+Computer Science & Statistics, Data Science minor, 5/2025, GPA: 3.8/4.0
+TECHNICAL SKILLS
+Programming (by YOE): Java (Spring Boot, Hibernate, J2EE) (4+), Python (3+), C/C++ (2+), React (1+), Node.js (1+),
+Angular (1+), AWS (1+), Azure DevOps, SQLite, Docker, Shell, SQL, Linux, JavaScript.
+Quantitative Finance Courses: Linear Algebra, Probability Theory, Machine Learning, Artificial Intelligence, R (3+), Equity &
+Option Trading, Tableau, Financial Accounting, Managerial Accounting.
+WORK EXPERIENCE
+CICC
+July 2024 = Aug 2024
+Java Quantitative Developer - Equity Trading Summer. Intern
+Implemented a Java class dataloader for MySQL using Spring Boot and Hibernate, substituting KDB dataloader for hdf5
+file live stock ticks from stock exchanges, ensuring seamless integration with existing systems.
+Developed the SSE, SZSE, and HKSE stock exchange simulation utilizing JQuantLib and ZeroMQ for near-perfect
+orderbook snapshot recovery, ensuring accurate back-testing of trading strategies.
+Expanded the 10-depth level 2 market data provided by the stock exchange to show all orders in the order book for more
+comprehensive strategy back-testing, providing over 300% additional proprietary data for the quant research team, enabling
+more detailed analysis than publicly available information.
+UVA Engineering, Charlottesville, VA
+Multiple Positions
+April 2022 = May 2024
+Developed the distributed data infrastructure for disaster response and fast decision support with Next.js, Node.js, TypeScript,
+PostgreSQL, Prisma, and Mapbox.
+Extracted data from AWS DynamoDB and integrated MySQL with InnoDB to optimize storage and retrieval, enhancing the
+system's capability to manage large-scale financial datasets. (Full Stack Engineer)
+Utilized Python to construct a community dictionary for global BGP network protocols, boosting network understanding and
+management by extracting detailed information for thousands of IP addresses on RADB. (Research Assistant)
+Researched and experimented with the NLP model BERT, adjusting model parameters to reduce noise and optimize threshold
+and batch sizes for improved on-device NLP training efficiency. (Research Assistant)
+Led and managed lab sessions, teaching introductory computer architecture in C and assembly, and assisted 438 students with
+debugging assignments. (Head Teaching Assistant)
+Mastercard, O'Fallon, MO
+Infrastructure Software Engineer Intern (System Platform Engineer)
+June 2023 - August 2023
+Led the transition from classic Endevor mainframe development to a modern DevOps environment using Azure DevOps,
+Zowe CLI, Node.js, and Jenkins API integration, significantly enhancing the development workflow for a team of -100
+engineers.
+Managed Ansible Tower Docker image in a zCX with a CentoS environment.
+Contributed to the full-stack team's Angular project using TypeScript and Angular, enhancing the frontend's responsiveness
+and user experience.
+Analyzed infrastructure OS processing data using SPLUNK and MySQL Performance Schema to monitor and report irregular
+activities, ensuring system integrity and performance.
+PROJECT
+Project Management Web Application (In progress)
+Summer 2024
+Designed RESTful APIs using Node.js and Express.js to handle user authentication, project creation, and task assignments.
+Integrated PostgresQL with Sequelize ORM for managing relational data and ensuring data integrity.
+Developed the front-end with React and Redux for state management, ensuring a responsive and dynamic user experience.
+Deployed the application using Docker containers with Compose for consistent environments across development & production.
+Automated deployment pipelines using Jenkins, enabling continuous integration and delivery (CI/CD).
+Configured Nginx as ai reverse proxy to manage server load and secure application endpoints.

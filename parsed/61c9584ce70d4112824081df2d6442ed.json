@@ -1,0 +1,75 @@
+{
+    "introduction": "Shudan Du",
+    "email": "nudandutusemalcon",
+    "phone": "+1 917-574-1165",
+    "experience": [
+        {
+            "company": "LYFT, SAN FRANCISCO, CA",
+            "role": "Senior Product Manager",
+            "duration": "Jan 2022 - Present",
+            "responsibilities": [
+                "Owned the end-to-end Scheduled Ride product from rider and driver experience to ML-driven driver earning, rider pricing, and dispatch algorithm.",
+                "Defined the business opportunity, vision, strategy, and roadmap for the Scheduled Rides product, influencing leadership to prioritize and make investment decisions.",
+                "Revamped the scheduled product experience to serve the airport use case, resulting in 2X% year-over-year growth in scheduled airport rides."
+            ]
+        },
+        {
+            "company": "LYFT, SAN FRANCISCO, CA",
+            "role": "Senior Analyst, Revenue Operations (Pricing)",
+            "duration": "Jun 2020 - Jan 2022",
+            "responsibilities": [
+                "Led Shared Rides product pricing and packaging strategy.",
+                "Conducted user research and designed A/B testing with algorithm data scientists and ML engineers.",
+                "Resulted in improved user adoption and optimized financial outcomes."
+            ]
+        },
+        {
+            "company": "NORTONLIFELOCK/SYMANTEC, MOUNTAIN VIEW, CA",
+            "role": "Senior Pricing Analyst",
+            "duration": "Aug 2018 - May 2020",
+            "responsibilities": [
+                "Managed Norton Lifelock subscription pricing for user acquisition and retention in Asia Pacific regions.",
+                "Designed and implemented price tests in Japan, improving conversion rate by 10%.",
+                "Streamlined the pricing change workflow, reducing lead time by 30%."
+            ]
+        },
+        {
+            "company": "BBVA, HONG KONG",
+            "role": "Analyst, Sales Strategy and Operation",
+            "duration": "Aug 2014 - Dec 2015",
+            "responsibilities": [
+                "Developed a real-time, dynamic sales pipeline dashboard for the Head of Sales.",
+                "Enhanced visibility into key metrics and improved forecast accuracy.",
+                "Segmented conversion rates and revenue probabilities by sales pipeline stage."
+            ]
+        },
+        {
+            "company": "PWC, HONG KONG",
+            "role": "Associate, Auditing",
+            "duration": "Oct 2012 - Jul 2014",
+            "responsibilities": [
+                "Provided audit services to clients in technology, retail, and manufacturing industries.",
+                "Enhanced client trust and satisfaction through detailed financial analysis.",
+                "Used Excel and SQL for detailed financial analysis."
+            ]
+        }
+    ],
+    "skills": [
+        "SQL",
+        "Mode Analytics",
+        "Excel",
+        "PowerPoint"
+    ],
+    "education": [
+        {
+            "degree": "Master of Business Administration",
+            "institution": "Tuck School of Business at Dartmouth, Hanover, NH",
+            "graduation_year": "2018"
+        },
+        {
+            "degree": "Bachelor of Business Administration",
+            "institution": "City University of Hong Kong, Hong Kong",
+            "graduation_year": "2012"
+        }
+    ]
+}

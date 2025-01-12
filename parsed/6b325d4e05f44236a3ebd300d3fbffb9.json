@@ -1,0 +1,72 @@
+{
+    "introduction": "Shudan Du",
+    "email": "nudandutusemalcon",
+    "phone": "+1 917-574-1165",
+    "experience": [
+        {
+            "company": "LYFT",
+            "role": "Senior Product Manager, Rider Offerings",
+            "duration": "Jan 2022 - Present",
+            "responsibilities": [
+                "Owned the end-to-end Scheduled Ride product from rider and driver experience to ML-driven driver earning, rider pricing and dispatch algorithm.",
+                "Defined the business opportunity, vision, strategy, and roadmap for the Scheduled Rides product, influencing leadership to prioritize and make investment decisions.",
+                "Revamped scheduled product experience to serve airport use case which was highlighted in 2023 holiday travel marketing campaign."
+            ]
+        },
+        {
+            "company": "LYFT",
+            "role": "Senior Analyst, Revenue Operations (Pricing)",
+            "duration": "Jun 2020 - Jan 2022",
+            "responsibilities": [
+                "Led the Shared Rides product pricing and packaging strategy balancing user adoption and financial impact.",
+                "Conducted user research and designed A/B testing pricing experiments with algorithm data scientists and ML engineers."
+            ]
+        },
+        {
+            "company": "NORTONLIFELOCK/SYMANTEC",
+            "role": "Senior Pricing Analyst",
+            "duration": "Aug 2018 - May 2020",
+            "responsibilities": [
+                "Managed a cross-functional team on customer acquisition and retention pricing projects.",
+                "Designed and implemented a price test experiment in Japan, improving the conversion rate by 10 basis points.",
+                "Streamlined the pricing execution process reducing lead time by 30%."
+            ]
+        },
+        {
+            "company": "BBVA",
+            "role": "Analyst, Strategy and Operation",
+            "duration": "Aug 2014 - Dec 2015",
+            "responsibilities": [
+                "Identified key metrics for the sales team through data analysis and designed a dashboard to visualize results.",
+                "Designed a training course for the CRM system increasing system usage by 20%."
+            ]
+        },
+        {
+            "company": "PWC",
+            "role": "Associate, Auditing",
+            "duration": "Oct 2012 - Jul 2014",
+            "responsibilities": [
+                "Provided audit services to clients across technology, retail, and manufacturing industries.",
+                "Recognized as a high performer."
+            ]
+        }
+    ],
+    "skills": [
+        "Life Coach",
+        "Product Manager Mentor on ADPList",
+        "Advanced in SQL, Mode Analytics, Excel and PowerPoint",
+        "Native in Mandarin, fluent in Cantonese"
+    ],
+    "education": [
+        {
+            "degree": "Master of Business Administration",
+            "institution": "Tuck School of Business at Dartmouth",
+            "graduation_year": "2018"
+        },
+        {
+            "degree": "Bachelor of Business Administration with First Class Honors in Quantitative Finance and Risk Management",
+            "institution": "City University of Hong Kong",
+            "graduation_year": "2012"
+        }
+    ]
+}

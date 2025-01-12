@@ -1,0 +1,92 @@
+{
+    "introduction": "Kai Li",
+    "email": "emu.lika2s@gmail.com",
+    "phone": "(412) 320-3833",
+    "experience": [
+        {
+            "company": "Liba Space",
+            "role": "Founder & CEO",
+            "duration": "02/2023-Present",
+            "responsibilities": [
+                "Built an online mentorship platform for professional skills learning, achieving annual revenue of $500,000 and attracting over 60,000 followers",
+                "Launched a job seeker tool leveraging AI, capturing over 200,000 impressions and 4000 early users on LinkedIn within the first week",
+                "Led a team to build a short video creation tool for knowledge workers"
+            ]
+        },
+        {
+            "company": "Google",
+            "role": "Senior Technical Program Manager",
+            "duration": "04/2019-02/2023",
+            "responsibilities": [
+                "Established on-device Google Assistant program impacting over 10M home devices",
+                "Led cross-departmental project to build local Smart Home framework",
+                "Created the roadmap for AI-based ranking engine, increasing user engagement"
+            ]
+        },
+        {
+            "company": "TuSimple",
+            "role": "Technical Product Manager",
+            "duration": "03/2018-04/2019",
+            "responsibilities": [
+                "Designed software products supporting autonomous driving system's workflows",
+                "Optimized data pipeline reducing idle time by over 30%",
+                "Owned HD mapping team's development, doubling map generation speed"
+            ]
+        },
+        {
+            "company": "Amazon Robotics",
+            "role": "Software Engineering Intern",
+            "duration": "05/2017-09/2017",
+            "responsibilities": [
+                "Invented technique for capturing finger touching points, filed patent",
+                "Developed software for images capturing and 3D point clouds storage",
+                "Tutored operating team and wrote code specifics and user manual"
+            ]
+        },
+        {
+            "company": "TP-Helper",
+            "role": "Founder & CEO",
+            "duration": "09/2015-03/2017",
+            "responsibilities": [
+                "Built cross functional team for information exchange platform, achieving over 30,000 users",
+                "Defined user growth plan, achieving 6000+ DAU within first year",
+                "Achieved monthly revenue of $12,000 through VIP features and local business cooperation"
+            ]
+        },
+        {
+            "company": "Tencent Company",
+            "role": "Product Manager",
+            "duration": "05/2015-09/2015",
+            "responsibilities": [
+                "Conducted user experience survey and competitor analysis on live video products",
+                "Designed the reputation system and reporting feature for Tencent Game Platform",
+                "Launched the 4th anniversary program of League of Legends on WeChat platform"
+            ]
+        }
+    ],
+    "skills": [
+        "Product Management",
+        "Technical Program Management",
+        "Data Analysis",
+        "Machine Learning",
+        "Python",
+        "Matlab",
+        "Django",
+        "MySQL",
+        "R",
+        "Axure",
+        "JIRA"
+    ],
+    "education": [
+        {
+            "degree": "Master of Science in Robotics",
+            "institution": "Carnegie Mellon University, School of Computer Science",
+            "graduation_year": "2018"
+        },
+        {
+            "degree": "Bachelor of Science, Industrial Engineering",
+            "institution": "Tsinghua University",
+            "graduation_year": "2016"
+        }
+    ]
+}

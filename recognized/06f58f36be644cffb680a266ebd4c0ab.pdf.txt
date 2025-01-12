@@ -1,0 +1,210 @@
+Eric
+6
+Male 137 yrs C +86 1333-6445-716 - Eriex2w@gmail.com
+Job intentions: Remote it jobs in USA office hours. Salary Expectation: $3.K/Month
+About me
+1.15 years working experience in the IT industry development, include requirement analysis, system
+evelopmentappication production support and operational deployment, and other domain;
+2.Full-stack development skills, be able to independently complete a application full software development cycle included;
+3.More than 5 years of team management and project management experience, successfully led a 20-member R&D
+team;
+5.7 years of working in a foreign famous bank, fluent in reading, writing and speaking English;
+6.Familiar with the product development process and management of IOT devices;
+Working experiment:
+ChongQing LiuMeng Tech Ltd.
+Technical Director
+2021.01-2024.11
+Business Background:
+Business stakeholders determined the project of sharing children's toy cars.
+The project is base on the the We Chat Mini-program UI & IOT devices & Java Back-end System & Management
+system to provide children's toy car time-sharing rental services for mothers in community, shopping mall.
+Objective:
+As technical director to lead the team to deliver the system ,to achieve the mile stone as business plan to realize
+the company's business planning..
+Working:
+1.As the Technical Leader, responsible for guiding the software and hardware development plan to ensure the
+project's technical direction and objectives are met;
+2.Conducted supplier research and engaged in business negotiations, conducted market research on children's
+toy car manufacturing enterprises, initiated business discussions, and ultimately finalized the selection of
+children's car suppliers and the enhancement plan for control circuitry;
+3.Took charge of technical route determination: formulated the product's technical route, defined hardware
+development prerequisites, and collaboratively selected the core MCU chip, as well as determined software and
+hardware communication protocols. Worked closely with hardware suppliers to discuss hardware and related
+plans;
+4.Led the design of the platform's technical architecture: made decisions regarding the technical architecture and
+platform-specific technology choices. Provided guidance to the software team for executing relevant technical
+development tasks.
+
+
+
+Achievement:
+1. Delivery the system only in 2 months which before the stakeholder expected.
+2. Startup the whole project only 100K RMB, breakthrough of products from 0 to 1
+SkillSet:
+5P8266,5P12A1208 Embedded Systems Programming
+Lua scripts PHP,Yii ameoRyguml-appwasa. PyQt5
+Guangzhou C-Radar Tech Ltd. Technical Director
+2018.08-2020.10
+Business background:
+Business stakeholder determined the project of data targeted marketing.The project collects the MAC code of the
+mobile phone of people based on WIFI probe IOT .Base on data collected in specific environments, targeted
+marketing will be carried out through Tencent advertising system interface.
+Objective:
+Build a targeted marketing system Saas system, to achieve the company's product strategy.
+Working:
+1.Developed the company's technical strategy and product direction, aligning the team with a clear vision for
+technology-driven growth.
+2.Led the establishment of the company's technical platform infrastructure, ensuring continuous system stability,
+scalability, and security for our operations.
+3.Led cross-functional product development teams, driving agile iterations and ensuring the timely delivery of high-
+quality products.
+4.Recruited, trained, and fostered a highly efficient technical team, promoting skill development and collaboration
+among team members.
+5.Managed technical team resources and determined product development budgets, optimizing the utilization of
+limited resources to maximize project efficiency.
+6.Explored innovative business models, new technologies, and solutions aligned with market opportunities,
+enhancing our product's competitiveness and innovation.
+7.Developed and managed the product supply chain, ensuring seamless integration and coordination with external
+partners and suppliers.
+Achievement:
+1.Achieved a transformation from product 0 to 1, and the technical team grew from 1 to 20 members.
+2.Good project design,after product roll out,received a seed round investment 300,000 RMB from the Shunde
+Innovation and Entrepreneurship Foundation.
+3.Angel investment of 3 million RMB from a prominent enterprise owner in Foshan, Guangdong.
+4.Participated in the Tencent Entrepreneurship Competition roadshow and received an award as a Tencent Smart
+Retail Incubation Enterprise.
+Skill Set:
+Vue, Android, n-app.Open-wrtspring Cloud Netfix,ConsulZookeeper,Gateway,Task,RabbitMQ,Hibernate,
+MyBatis,SpingBootNginxenkinsjs.htmlcss3,
+
+
+
+Guangdong Wan-Hui Tech Ltd. PPMoney. Java Technical Manager
+2016.09-2017.10
+Business background:
+According to Wan Hui Group's strategic deployment, the Waniu app product was developed. The app positioned
+as US stock-picking tool for ordinary investors.
+Objective:
+Refactor the system from C+ + to java and development new function according business requirement.
+Working:
+1.Work closely with the Product Manager to analyze and refine product requirements.
+2.Take charge of designing and implementing business systems, leading the availability design and
+implementation of system architecture.
+3.Lead the core framework design of the entire project, undertake core code design and development tasks,
+ensuring a robust technical foundation for the project.
+4.Manage the team, supervise and conduct performance evaluations, and carry out daily code reviews.
+5.Provide guidance to ensure efficient collaboration within the team and organized development work.
+6.Be responsible for project testing, operations, and risk management. Actively identify and resolve issues and
+risks to ensure on-time delivery of requirements.
+Achievement:
+1.Successfully completed the restructuring of the market data server, leveraging Java to refactor the previous
+C++ market data server. By utilizing multicast networking mechanisms and the high availability features of
+network hardware, resolved historical issues related to single points of failure and instability in the market
+data server.
+2.Accomplished the restructuring of the trading server and introduced automated trading testing, significantly
+enhancing testing efficiency and product iteration speed.
+3.Designed and implemented an intelligent stock selector, realizing the core functionality of the product and
+establishing its distinctive features.
+Skill Set:
+Springboot.spring wycspring-doudspring quarz/astDFS,RaDbitMQHibpernate,
+MyBatis, dubbo,zookeeper,"MangoD5.Mysq.Redis.RaDbItMQ,GRPGprotoburAeron,Vertztvenbus,Netty
+China Telecom Bestpay Tech Ltd
+Senior Site Reliability Engineer
+2015.05-2016.09
+Project background:
+Due to business growth, number of application modules has exceeded 600+, and number of physical machines has
+exceeded 700+, the original old style operation and maintenance mode are no longer support the business growth,
+DevOps have been put into agenda.
+Working:
+1.Enhanced the availability of Bestpay business system. Participated in the design and implementation of the
+business system, leading the design and enhancement of system architecture for improved availability.
+
+
+
+2.Reviewed the operational architecture design of the payment platform, spearheading daily deployment,
+monitoring, and related tasks to ensure seamless and efficient 24/7 operation of the business. Supported
+continuous integration, agile development, and rapid product iteration delivery.
+3.Took responsibility for optimizing the product system architecture, consistently improving product performance
+and system stability.
+4.Developed and implemented various standards for host, network, application, and configuration management to
+enhance development efficiency.
+5.Actively promoted and developed efficient automation for operations and management, implementing DevOps
+principles to enhance team collaboration and delivery efficiency.
+Achievement:
+1.Completed the standardization and normalization overhaul of over 600 modules, unifying various standards for
+host, network, database, and configuration management. This laid the foundation for subsequent efficiency
+improvements.
+2.Successfully achieved the objectives of the system's Phase 1 development. On the day of the data center
+migration, all 600 applications were launched within 10 minutes, and virtual machine creation and application
+deployment became fully automated, setting the groundwork for dynamic scaling and automatic re-sizing in the
+future.
+3.Implemented visualization for resource management of over 800 physical machines and 3000+ virtual machines.
+Skill Set:
+ython,P)ango,flask, Saltstack.keepalive,NginxetyAPache,VCenter (vmware) git
+HSBC China R&D Center
+Senior Software Engineer
+2015.05-2016.09
+Business background:
+Employed in the Online Banking Department of HSBC Bank, primarily responsible for channel system
+development and production support. Coinciding with the era of mobile internet, actively participated in the
+development and production support of HSBC Bank's mobile banking application.
+Objective:
+Ensured high-quality and on-time delivery of project requirements. Ensured the stable operation of online banking
+and mobile banking online generation systems.
+Working:
+.Requirement Analysis and Design: Collaborated with product managers and designers to oversee the end-to-end
+process, from requirement gathering, system design, development, testing, deployment, to system delivery.
+Ensured that requirements were met with high quality and on-time delivery.
+2.Coding and Development: Wrote code and developed various components of the system's functionalities.
+3.Role of a technical lead, assisting the Xi'an team in on boarding offshore projects. Conducted online interviews
+for potential team members and provided guidance during their on boarding process.
+4.Production support, worked closely with the team to provide support for HSBC Bank's online and mobile banking
+production systems in the Asia-Pacific region. This support encompassed handling incidents, emergency responses
+in the production environment, disaster recovery, and rectifying defects in the production systems.
+5.Provided guidance to junior engineers in overcoming technical challenges, conducted training for new team
+members, and performed routine code reviews to ensure the team's technical expertise and code quality were
+maintained.
+
+
+
+Achievement:
+1.Within less than 3 months of joining, transitioned from an outsourced employee at HSBC to a permanent staff
+member.
+2.In the second year of employment, received R&R reward as an outstanding employee which over 5000 employees
+at the Chinese R&D center.
+3.Managed the channel system, and in a span of 3 years, there were no major production incidents or accidents.
+Skill Set:
+IBM WebSphere Application Server, IBM WebSphere Portal Server, IBM WebSphere MQ Server, IBM Http Server,
+Linux shell, JQuery mobileQuery,dojo.bootstrap.HTMI5,CC53JaVascript.Maven,Git.sVN,inux,shell,Tomcat
+Education
+South China Agricultural University Bachelor Social work
+2004-2008
+Skill set
+Software:
+Front-end Development: Proficient in HTML, CSS, and JavaScript, capable of building interactive front-end
+interfaces using the Vue framework.
+Back-end Development: Proficient in the Spring framework, skilled in the Spring Boot ecosystem, capable of
+building high-performance back-end applications.
+Database Management: Familiar with both relational databases (such as MySQL and PostgreSQL) and NOSQL
+databases (such as MongoDB and Redis). Possesses experience in database design and performance optimization.
+Continuous Integration and Continuous Delivery (CI/CD): Knowledgeable in CI/CD tools and processes, capable of
+automating application building, testing, and deployment.
+Server Operations: Able to write scripts (such as Shell or Python scripts) for automating routine server maintenance
+tasks.
+Mobile App Development: Experienced in Android app development, proficient in Java programming language,
+capable of building powerful and user-friendly Android applications.
+Cross-Platform Mobile App Development: Proficient in using HBuilder and the uni-app framework, capable of
+developing cross-platform mobile applications for both ios and Android.
+Mobile App Publishing: Familiar with the application publishing processes for ios App Store and Google Play Store,
+capable of successfully publishing applications to app stores.
+Desktop Application Development: Skilled in using the PyQt5 framework, capable of developing cross-platform
+desktop applications for Windows, macos, and Linux.
+Hardware:
+Embedded System Development: Proficient in embedded system development using chips like ESP8266, ESP12,
+and others.
+loT Application Development: Capable of developing Internet of Things (loT) applications, integrating sensors and
+devices with cloud services for remote monitoring and control.
+Communication Protocols: Knowledgeable about common communication protocols such as UART, SPI, 12C, and Wi
+-Fi communication protocols for interfacing with external devices.
+Sensor Integration: Experienced in integrating various sensors (e.g., temperature sensors, humidity sensors) into
+embedded systems.

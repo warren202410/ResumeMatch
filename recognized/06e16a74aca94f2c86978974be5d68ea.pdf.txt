@@ -1,0 +1,67 @@
+Kai Li
+(412) 320-3833
+emu.lika2s@gmail.com
+htpy/Aulimpwchiecon,
+Education
+Carnegie Mellon University, School of Computer Science, Master of Science in Robotics
+072016-05/2018
+Tsinghua University, Bachelor of Science, Industrial Engineering
+08/2012-072016
+Experience
+Founder & CEO of Liba Space
+02/2023-Present
+Built an online mentorship platform for professional skills learning, which achieved annual revenue of $500,000 and
+attracted over 60,000 followers
+Launched a job seeker tool to help users find the latest job openings and submit their resumes automatically by AI,
+which captured over 200,000 impressions and 4000 early users on Linkedin within the first week of launch
+Lead a team of 8 persons including AI researchers, designers and software engineers, building a short video creation
+tool to help knowledge workers promote their services and courses
+Senior Technical Program Manager at Google, Mountain View, CA
+04/2019-02/2023
+Established on-device Google Assistant program which leveraged AI and edge computing technologies to reduce
+user friction and latency, and launched it at Made By Google event impacting over 10M home devices
+Led cross-departmental project as the product owner to build local Smart Home framework equivalent to Home
+Automation server, providing users a local home experience with 3X faster queries execution
+Managed the offline NLU model's iteration to reach quality on par with server and support feature expansion
+Created the roadmap to build an AI-based ranking engine that personalized the contents delivery on Smart Displays
+to the end users, increasing the user engagement with the screen from 11% to 18%
+Represented as the product owner for Smart Displays portfolio and drove strategies, feature development and quality
+Technical Product Manager at TuSimple, San Diego, CA
+03/2018-04/2019
+Served as the lead product manager and designed a series of software products which became the foundation
+supporting autonomous driving system's workflows and a fleet of trucks' operation
+Optimized the data pipeline from data collection to post-processing, reducing the data idle time by over 30%
+Created tags domain system for debrief and triage on the autonomous driving road test issues, which enabled
+algorithm modules' conditional benchmarks and tag-driven improvement
+Owned HD mapping team's development and productization, doubled the speed of map generation by transforming
+human controlled process into modularized semi-automated product
+Software Engineering Intern at Amazon Robotics, Boston, MA
+05/2017-09/2017
+Invented a technique using infrared camera and computer vision to capture finger touching points when human
+naturally grasping packages, filing a US patent application of my invention
+Developed a software application which automated the images capturing and 3D point clouds storage process
+Tutored operating team to work on my system, and wrote the code specifics as well as user manual for reference
+Founder & CEO of TP-Helper, Beijing, China
+09/2015-03/2017
+Built a cross functional team of six people to work on an information exchange platform from ideation to MVP
+launch, which enabled college students in Beijing to find immediate help with everyday tasks
+Defined the user growth plan and achieved over 30,000 users with 6,000+ DAU within the first year
+Achieved monthly revenue of $12000 by providing VIP features and building cooperation with local businesses
+Product Manager at Tencent Company, Shenzhen, China
+05/2015-09/2015
+Conducted user experience survey and competitor analysis on live video products; provided contexts for A/B testing
+Designed the reputation system and reporting feature to enhance user's gaming experience on Tencent Game Platform
+Launched the 4th anniversary program of League of Legends on WeChat platform, visualizing players' gaming
+records and exciting moments, attracting over 3 million viewing times
+
+
+
+Projects
+AI Landing Page Builder using AIGC Tools (GPT, Midjourney)
+GGV Capital Fellow 2020
+Social Interactive Robot's Prototyping for Elderly People
+Product Design for Teaching Aids Simulator Based on Augmented Reality
+Skills&interests
+Skills: Product Management, Technical Program Management, Data Analysis, Machine Learning, Python, Matlab,
+Django, MySQL, R, Axure, JIRA
+Interests: Entrepreneurship, Leadership, AI/ML, Robotics, Bio-tech, Healthcare, Edu-tech, Ecommerce

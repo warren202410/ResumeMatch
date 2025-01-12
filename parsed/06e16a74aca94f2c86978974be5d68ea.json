@@ -1,0 +1,92 @@
+{
+    "introduction": "Kai Li",
+    "email": "emu.lika2s@gmail.com",
+    "phone": "(412) 320-3833",
+    "experience": [
+        {
+            "company": "Liba Space",
+            "role": "Founder & CEO",
+            "duration": "02/2023-Present",
+            "responsibilities": [
+                "Built an online mentorship platform for professional skills learning, which achieved annual revenue of $500,000 and attracted over 60,000 followers",
+                "Launched a job seeker tool to help users find the latest job openings and submit their resumes automatically by AI, capturing over 200,000 impressions and 4000 early users on Linkedin within the first week of launch",
+                "Led a team of 8 persons including AI researchers, designers, and software engineers, building a short video creation tool to help knowledge workers promote their services and courses"
+            ]
+        },
+        {
+            "company": "Google",
+            "role": "Senior Technical Program Manager",
+            "duration": "04/2019-02/2023",
+            "responsibilities": [
+                "Established on-device Google Assistant program leveraging AI and edge computing technologies, reducing user friction and latency, and launched it at Made By Google event impacting over 10M home devices",
+                "Led cross-departmental project as the product owner to build local Smart Home framework equivalent to Home Automation server, providing a local home experience with 3X faster queries execution",
+                "Managed the offline NLU model's iteration to reach quality on par with server and support feature expansion"
+            ]
+        },
+        {
+            "company": "TuSimple",
+            "role": "Technical Product Manager",
+            "duration": "03/2018-04/2019",
+            "responsibilities": [
+                "Served as the lead product manager and designed software products supporting autonomous driving system's workflows and fleet of trucks' operation",
+                "Optimized the data pipeline from data collection to post-processing, reducing the data idle time by over 30%",
+                "Owned HD mapping team's development and productization, doubling the speed of map generation through semi-automation"
+            ]
+        },
+        {
+            "company": "Amazon Robotics",
+            "role": "Software Engineering Intern",
+            "duration": "05/2017-09/2017",
+            "responsibilities": [
+                "Invented a technique using infrared camera and computer vision to capture finger touching points when human naturally grasping packages; filed a US patent application",
+                "Developed software application automating images capturing and 3D point clouds storage process",
+                "Tutored operating team on system use, wrote code specifics, and created user manual"
+            ]
+        },
+        {
+            "company": "TP-Helper",
+            "role": "Founder & CEO",
+            "duration": "09/2015-03/2017",
+            "responsibilities": [
+                "Built a cross-functional team of six to create an information exchange platform from ideation to MVP, enabling college students in Beijing to find help with everyday tasks",
+                "Defined user growth plan, achieving over 30,000 users with 6,000+ DAU within the first year",
+                "Achieved monthly revenue of $12,000 by offering VIP features and partnering with local businesses"
+            ]
+        },
+        {
+            "company": "Tencent Company",
+            "role": "Product Manager",
+            "duration": "05/2015-09/2015",
+            "responsibilities": [
+                "Conducted user experience survey and competitor analysis on live video products; provided contexts for A/B testing",
+                "Designed reputation system and reporting feature to enhance user's gaming experience on Tencent Game Platform",
+                "Launched 4th anniversary program of League of Legends on WeChat, visualizing players' gaming records, attracting over 3 million views"
+            ]
+        }
+    ],
+    "skills": [
+        "Product Management",
+        "Technical Program Management",
+        "Data Analysis",
+        "Machine Learning",
+        "Python",
+        "Matlab",
+        "Django",
+        "MySQL",
+        "R",
+        "Axure",
+        "JIRA"
+    ],
+    "education": [
+        {
+            "degree": "Master of Science in Robotics",
+            "institution": "Carnegie Mellon University, School of Computer Science",
+            "graduation_year": "2018"
+        },
+        {
+            "degree": "Bachelor of Science, Industrial Engineering",
+            "institution": "Tsinghua University",
+            "graduation_year": "2016"
+        }
+    ]
+}

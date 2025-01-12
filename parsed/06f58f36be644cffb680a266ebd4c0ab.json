@@ -1,0 +1,76 @@
+{
+    "introduction": "Eric",
+    "email": "Eriex2w@gmail.com",
+    "phone": "+86 1333-6445-716",
+    "experience": [
+        {
+            "company": "ChongQing LiuMeng Tech Ltd.",
+            "role": "Technical Director",
+            "duration": "2021.01-2024.11",
+            "responsibilities": [
+                "Guided the software and hardware development plan to ensure the project's technical direction and objectives",
+                "Conducted supplier research and engaged in business negotiations for children's car suppliers",
+                "Formulated the product's technical route and defined hardware development prerequisites"
+            ]
+        },
+        {
+            "company": "Guangzhou C-Radar Tech Ltd.",
+            "role": "Technical Director",
+            "duration": "2018.08-2020.10",
+            "responsibilities": [
+                "Developed the company's technical strategy and product direction",
+                "Led the establishment of the company's technical platform infrastructure",
+                "Managed technical team resources and determined product development budgets"
+            ]
+        },
+        {
+            "company": "Guangdong Wan-Hui Tech Ltd. PPMoney",
+            "role": "Java Technical Manager",
+            "duration": "2016.09-2017.10",
+            "responsibilities": [
+                "Worked closely with the Product Manager to analyze product requirements",
+                "Led the core framework design of the project",
+                "Managed the team, supervised and conducted performance evaluations"
+            ]
+        },
+        {
+            "company": "China Telecom Bestpay Tech Ltd",
+            "role": "Senior Site Reliability Engineer",
+            "duration": "2015.05-2016.09",
+            "responsibilities": [
+                "Enhanced the availability of Bestpay business system",
+                "Reviewed the operational architecture design of the payment platform",
+                "Promoted and developed efficient automation for operations and management"
+            ]
+        },
+        {
+            "company": "HSBC China R&D Center",
+            "role": "Senior Software Engineer",
+            "duration": "2015.05-2016.09",
+            "responsibilities": [
+                "Requirement Analysis and Design for system functionalities",
+                "Provided production support for HSBC Bank's online and mobile banking systems",
+                "Provided guidance to junior engineers and conducted training"
+            ]
+        }
+    ],
+    "skills": [
+        "HTML, CSS, JavaScript",
+        "Spring Boot ecosystem",
+        "MySQL, PostgreSQL, MongoDB, Redis",
+        "CI/CD tools and processes",
+        "Python, Shell scripting",
+        "Android app development",
+        "HBuilder and uni-app framework",
+        "PyQt5 framework",
+        "Embedded system development",
+        "IoT application development"
+    ],
+    "education": [
+        {
+            "degree": "Bachelor",
+            "institution": "South China Agricultural University",
+            "graduation_year": "2008"
+        }
+    ]
+}
